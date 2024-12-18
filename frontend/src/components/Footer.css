@@ -1,0 +1,90 @@
+.row15{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+.row15 h5{
+    font-weight: bold;
+}
+.row15 p{
+    font-size: small;
+}
+.row16{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    background-color: whitesmoke;
+    gap: 70px;
+}
+.row16 li {
+    list-style: none;
+}
+.footer1{
+    line-height: 35px;
+}
+.footer1 h6{
+     font-weight: bold;
+}
+.footer2{
+    /* padding-left: 70px; */
+    line-height: 35px;
+}
+.footer2 h6{
+    font-weight: bold;
+}
+
+.footer3 h6{
+    font-weight: bold;
+}
+.footer4{
+    /* padding-left: 60px; */
+    padding-right: 20px;
+   
+}
+.footer4 li{
+    display: inline;
+    font-size: xx-large;
+}
+.footer3 u{
+    color: royalblue;
+}
+.footer4 img{
+    width: 35px;
+    height: 35px;
+}
+.footer4 button{
+    border: 1px solid royalblue;
+    background-color: royalblue;
+    color: white;
+    border-radius: 50px;
+}
+.row17{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+}
+.end1{
+    padding-left: 100px;
+    font-size: small;
+}
+.end2{
+
+   padding-left: 400px;
+}
+.dhanee img{
+    width: 50px;
+    height: 25px;
+}
+.dhanee li{
+    display: inline;
+}
+.dropdown{
+    text-align: end;
+}

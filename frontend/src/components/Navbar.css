@@ -1,0 +1,95 @@
+
+.row1{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    padding-top: 20px;
+}
+.search{
+    width: 33.33%;
+    padding-left: 100px;
+}
+.search li{
+    display: inline;
+    padding: 10px;
+}
+.icon{
+    font-size: xx-large;
+}
+.text{
+    font-size: larger;
+    font-family:sans-serif;
+}
+.logo{
+    width: 33.33%;
+}
+.logo img{
+    width: 410px;
+    height: 60px;
+    padding-left: 100px;
+}
+.login{
+    width: 33.33%;
+}
+.login ul{
+    padding-left: 150px;
+}
+.login li{
+    display: inline;
+}
+.currency{
+    font-size: large;   
+}
+.user{
+    font-size: xx-large;
+    padding-left: 20px;
+}
+.bag{
+    font-size: xx-large;
+    padding-left: 20px;
+}
+.nav{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-family: sans-serif ;
+   
+   
+   
+   
+}
+.nav li{
+    display: inline;
+    padding: 20px;
+   
+   
+}
+.nav ul{
+ margin-top: 20px;
+ text-decoration: none;
+ color: black;
+
+
+}
+.carousel-inner{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(255, 96, 168);
+}
+.shoppy {
+  
+   
+    padding: 20px;
+    text-align: center;
+}
+.shoppy li{
+    display: inline;
+    padding: 20px;
+}
+.shoppy li a{
+  
+    text-decoration: none;
+    color: black; 
+}

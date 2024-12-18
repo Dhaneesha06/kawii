@@ -1,0 +1,45 @@
+.row1{
+    width:100%;
+    overflow: hidden;
+}
+.row2{
+    width: 100%;
+    overflow: hidden;
+    line-height: 80px;
+}
+.row4{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    color: gray;
+}
+.row9 img{
+    width:260px;
+    height: 260px;
+}
+.row9{
+    width:100%;
+    overflow:hidden;
+    display: flex;
+    padding-top: 40px;
+    gap: 30px;
+    text-align: center;
+}
+.row9 p{
+    padding-top: 10px;
+    font-size:medium;
+    
+}
+.row12{
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    padding-top: 40px;
+    gap: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.row12 h6{
+    font-size: small;
+}
